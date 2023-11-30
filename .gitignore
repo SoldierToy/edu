@@ -6,7 +6,7 @@ __pycache__/
 .idea
 # C extensions
 *.so
-
+/other/rabbit_mq
 # Distribution / packaging
 .Python
 build/

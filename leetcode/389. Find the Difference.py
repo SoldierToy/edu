@@ -2,7 +2,7 @@ from collections import Counter
 
 
 class Solution:
-    def findTheDifference(self, st: str, tt: str) -> str:
+    def ffindTheDifference(self, st: str, tt: str) -> str:
         cnt1 = Counter(st)
         cnt2 = Counter(tt)
 
